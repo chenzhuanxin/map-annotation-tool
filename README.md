@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/logo.png" width="120" alt="map-annotation-tool"></p>
+
 # 地图标注 · 活动行程工具（Map Annotation & Itinerary Tool）
 
 一个**单文件、开箱即用**的 Web 地图工具，面向两类场景：
